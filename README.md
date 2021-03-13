@@ -1,0 +1,1 @@
+# Analysis-and-Prediction-of-Diabetes-using-Na-ve-Bayes-theorem
